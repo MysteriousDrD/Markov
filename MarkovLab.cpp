@@ -1,4 +1,3 @@
-//David Fennell | 10365511
 #include <iostream>
 #include <fstream>
 #include <string>
